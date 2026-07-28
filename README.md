@@ -157,7 +157,7 @@ SNM-Driven-Sizing-Optimization-IGZO-6T-SRAM/
 **Purnima Garg** — B.Tech, Electronics and Communication Engineering (VLSI), IIT Ropar
 Project supervised by [Dr. Pardeep Duhan] — [Electrical Dept.]
 
-*Feel free to connect on [LinkedIn](#) or reach out for questions about the methodology or design files.*
+*Feel free to connect on [LinkedIn](www.linkedin.com/in/purnima-garg-eng25) or reach out for questions about the methodology or design files.*
 
 ---
 *This repository documents an academic research project. Device models and simulation setups reflect an undergraduate research context and are intended for educational/portfolio purposes.*
