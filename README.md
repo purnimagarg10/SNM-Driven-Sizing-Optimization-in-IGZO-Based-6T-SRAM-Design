@@ -117,14 +117,11 @@ SNM-Driven-Sizing-Optimization-IGZO-6T-SRAM/
 ├── schematics/
 │   ├── bulk-Si/                 # Bulk-Si 6T SRAM schematic screenshots
 │   └── igzo/                    # IGZO TFT 6T SRAM schematic screenshots
-├── simulations/
-│   ├── bulk-si/
-│   │   └── Case1/ ... Case6/    # Per-case: sizing, extracted data, mini-README
-│   └── igzo-optimized/          # Single optimized IGZO case: schematic,
-│                                  butterfly curves, transient plot, data
-└── results/
-    ├── comparison_plots/        # SNM-vs-case trend chart
-    └── best_case_highlights/    # Best-case and worst-case RSNM butterfly curves
+└── simulations/
+    ├── bulk-si/
+    │   └── Case1/ ... Case6/    # Per-case: sizing, extracted data, mini-README
+    └── igzo-optimized/          # Single optimized IGZO case: schematic,
+                                   butterfly curves, transient plot, data
  
 ```
 
