@@ -94,11 +94,7 @@ A small, curated set of images is used here rather than one screenshot per case 
 
 | Best Case (Case 4) | Worst Case (Case 3) |
 |---|---|
-| ![Best case RSNM butterfly curve](results/best_case_highlights/best_rsnm_butterfly.png) | ![Worst case RSNM butterfly curve](results/best_case_highlights/worst_rsnm_butterfly.png) |
-
-### SNM Trend Across All Six Bulk-Si Cases
-
-![SNM comparison across six cases](results/comparison_plots/snm_vs_case.png)
+| ![Best case RSNM butterfly curve](simulation/bulk-si/RSNM/DC_READ_N_4u_P_A_1u.png) | ![Worst case RSNM butterfly curve](simulation/bulk-si/RSNM/DC_READ_A_4u_P_N_1u.png) |
 
 
 ## Key Findings
